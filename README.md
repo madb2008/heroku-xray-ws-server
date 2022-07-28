@@ -22,4 +22,4 @@
 
 # Credit
 
-1. [teddysun](https://github.com/teddysun) For Main Repo
+1. [teddysun](https://github.com/madb2008) For Main Repo
